@@ -9,8 +9,8 @@
 #  if num % 3 == 0 and num % 5 != 0:
 #     print(num)
 # №2
-n = [1, 2, 3, 4, 5, 2, 3, 4, 5]
-for num in n:
-    if n.count(num) == 1:
-        print(num)
-        break
+# n = [1, 2, 3, 4, 5, 2, 3, 4, 5]
+# for num in n:
+#   if n.count(num) == 1:
+#     print(num)
+#     break
